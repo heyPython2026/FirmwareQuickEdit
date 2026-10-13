@@ -1,5 +1,7 @@
 # 三菱电梯程序编辑软件
 
+FirmwareQuickEdit is a Windows HEX firmware editor for Mitsubishi elevator maintenance, with address navigation, byte editing, file comparison, and checksum checking.
+
 维修三菱电梯时，想查地址、改字节、对比文件？这款 Windows 固件编辑器把常用操作放在一个界面里，适合需要手动查看和修改固件数据的维修人员。
 
 ## 主要功能
