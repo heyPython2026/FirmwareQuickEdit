@@ -35,3 +35,7 @@
 ## 下载
 
 前往 [Releases](https://github.com/heyPython2026/FirmwareQuickEdit/releases) 下载双架构免安装包。解压后根据系统选择 `win32` 或 `win64` 文件夹，运行其中的 `FirmwareQuickEdit-v1.1.103.exe`。压缩包内附有 `电梯参数.json` 和 SHA-256 校验文件。
+
+## 授权注册
+
+软件使用需注册授权，注册请联系：[**635873431@qq.com**](mailto:635873431@qq.com)
