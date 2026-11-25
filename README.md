@@ -37,8 +37,10 @@ FirmwareQuickEdit is a Windows HEX firmware editor for Mitsubishi elevator maint
 
 ## 下载
 
-前往 [FirmwareQuickEdit v1.1.150 Releases](https://github.com/heyPython2026/FirmwareQuickEdit/releases/tag/v1.1.150) 下载 32 位免安装包（可在 32 位和 64 位 Windows 运行）。解压后直接运行 `FirmwareQuickEdit-v1.1.150.exe`。压缩包包含 8 组电梯参数配置模板、示例固件和 SHA-256 校验文件。
+前往 [FirmwareQuickEdit v1.1.174 Releases](https://github.com/heyPython2026/FirmwareQuickEdit/releases/tag/v1.1.174) 下载 32 位免安装包（可在 32 位和 64 位 Windows 运行）。解压后直接运行 `FirmwareQuickEdit-v1.1.174.exe`。压缩包包含 8 组电梯参数配置模板、使用帮助、第三方运行库说明和 SHA-256 校验文件。
 
-## 授权注册
+## 联系与许可 | Contact and licensing
 
-软件使用需注册授权，注册请联系：[**635873431@qq.com**](mailto:635873431@qq.com)
+编辑和保存需要注册授权。软件以可执行文件形式发布，第三方运行库许可说明见发布包。 FirmwareQuickEdit is distributed as an executable. See the release package for third-party notices.
+
+联系邮箱 / Contact: [635873431@qq.com](mailto:635873431@qq.com)
